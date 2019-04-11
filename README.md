@@ -7,12 +7,12 @@
 ## 3. Longest Substring Without Repeating Characters
 - [bytedance1.cpp](https://github.com/yeyuezhishui/Surfur_Leet_Code/blob/master/bytedance1.cpp)
   使用map进行hash映射，通过查询map中对应键的值来确定元素是否被访问过
-- [bytedance1_ans.cpp]()
+- [bytedance1_ans.cpp](https://github.com/yeyuezhishui/Surfur_Leet_Code/blob/master/bytedance1_ans.cpp)
   本题Leetcode提交Solution版
 ## 15. 3Sum
 - [bytedance2.cpp](https://github.com/yeyuezhishui/Surfur_Leet_Code/blob/master/bytedance2.cpp)
   先排序，再收尾各一个指针相向移动，注意去重
-- [bytedance2_ans.cpp]()
+- [bytedance2_ans.cpp](https://github.com/yeyuezhishui/Surfur_Leet_Code/blob/master/bytedance2_ans.cpp)
   本题Leetcode提交Solution版
 ## 155. Min Stack
 - [bytedance4.cpp](https://github.com/yeyuezhishui/Surfur_Leet_Code/blob/master/bytedance4.cpp)
